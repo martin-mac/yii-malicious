@@ -1,6 +1,5 @@
 {
-	"name": "malicious/app-info",
-	"version": "1.0.0",
+	"name": "martin-mac/yii-malicious",
 	"description": "Example extension which reveals important information about the application",
 	"keywords": ["yii2", "application-info", "example-extension"],
 	"license": "CC-0",
